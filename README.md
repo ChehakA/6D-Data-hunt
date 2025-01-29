@@ -10,20 +10,6 @@ This project implements K-Means clustering on a high-dimensional (6D) dataset, f
 - **Clustering**: The K-Means clustering algorithm is used to group the data points into clusters based on their similarities.
 - **Visualization**: The 3D scatter plots visualize the results of clustering and show how each cluster behaves in the reduced 3D PCA space.
   
-## Features
 
-- K-Means clustering on a 6D dataset.
-- Dimensionality reduction using PCA for better visualization.
-- Cluster centroids and sizes displayed.
-- 3D scatter plot of each cluster.
-- Saves each cluster’s 3D plot as an image (`cluster_<cluster_number>_3D.png`).
 
-## Setup and Installation
 
-To run this project, follow the steps below:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/<your-username>/6D-Cluster-Analysis-and-Visualization.git
-   cd 6D-Cluster-Analysis-and-Visualization
